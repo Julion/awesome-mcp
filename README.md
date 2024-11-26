@@ -7,6 +7,9 @@ Model Context Protocol (MCP) is a new standard for connecting AI assistants to t
 
 ## Official
 - [Website](https://modelcontextprotocol.io/)
+- [Featured Servers](https://github.com/modelcontextprotocol/servers)
+
+## Building
 - [Specification](https://spec.modelcontextprotocol.io/specification/)
 - [Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 - [TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
